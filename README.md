@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pornpanit (Jiew)
+- 👋 Hi, I’m Pornpanit (Jiew), current Phd Student at UCL. https://www.ucl.ac.uk/institute-finance-technology/research-students
 - 👀 I’m interested in Data Science, Algorithmic Trading and Gaming.
 - 🌱 I’m currently learning Python, ML, NLP and other technologies to support data science project!
 - 💞️ I’m looking to work as a Data Scientist to solve business problem by analysing data and creating predictive model.
